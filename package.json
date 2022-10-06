@@ -5,7 +5,7 @@
   "homepage": "https://skochdev.github.io/parcel-starter-2022",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /parcel-starter-2022/"
   },
   "keywords": [],
   "author": "",
