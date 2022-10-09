@@ -1,0 +1,27 @@
+*,
+*::after,
+*::before {
+  border: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+html {
+  /*10px default font-size. % is used so the user would be able to zoom-in/out*/
+  font-size: 62.5%;
+}
+
+body {
+  font-weight: 400;
+  color: #777;
+  box-sizing: border-box;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}

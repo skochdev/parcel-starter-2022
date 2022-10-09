@@ -1,0 +1,41 @@
+// COLORS-----------------------
+
+$blue-primary: #6fd2d5;
+$blue-secondary: #5593c5;
+$white: #ffffff;
+$color-bg-muted: #f6f6f6;
+
+//Shadows-----------------------
+
+$box-shadow-default: 0 0.5rem 0.2rem rgb(0 0 0 / 0.2);
+$box-shadow-slight: 0 0.1rem 0.2rem rgb(0 0 0 / 0.5);
+
+/*Transition and Animation related -----------------------*/
+$default-timing: 150ms;
+$cubic-default: 0.8, 0.8, 0.9, 0.9;
+$cubic-alt: 0.2, 0.2, 0.1, 0.2;
+
+
+// Layout ----------------------------
+$max-width: 114rem;
+
+
+// Utility margins for consistency
+$margin-sm: 1rem;
+$margin-md: 2rem;
+$margin-l: 4rem;
+$margin-xl: 8rem;
+
+// Font-weights
+$fw-thin: 100;
+$fw-light: 300;
+$fw-regular: 400;
+$fw-medium: 500;
+$fw-semi-bold: 600;
+$fw-bold: 700;
+$fw-extrabold: 900;
+
+//Font-sizes
+$fz-regular: 1.6rem;
+
+
